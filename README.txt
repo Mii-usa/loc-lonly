@@ -1,1 +1,1 @@
-local project only
+local project + remote project 
